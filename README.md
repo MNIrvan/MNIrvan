@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I'm a student from the Lumajang branch of the Malang State Polytechnic
 - 🌱 I’m currently learning PHP and Laravel Framework
 - 👯 I’m looking to collaborate on a Website Development project
-- 📫 How to reach me: u can reach me through my Instagram (**@mnirvann**)
+- 📫 How to reach me: u can reach me through my Instagram [(**@mnirvann**)](https://instagram.com/mnirvann)
 - ⚡ Fun fact: i'm like Badmintoon, chess and playing video game
+
+![Code Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRveHhzZ29ub2lqZWN2MWJlNjRjbmZpd3drZnRwYmcxZ2poY2wwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif)
