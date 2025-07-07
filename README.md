@@ -1,4 +1,4 @@
-## Hello World! I'm M. Nuril Irvan 👋
+![M. Nuril Irvan](img/github-header-image.png)
 
 <!--
 **MNIrvan/MNIrvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
