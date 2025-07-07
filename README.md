@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'm M. Nuril Irvan 👋
 
 <!--
 **MNIrvan/MNIrvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm a student from the Lumajang branch of the Malang State Polytechnic
+- 🌱 I’m currently learning PHP and Laravel Framework
+- 👯 I’m looking to collaborate on a Website Development project
+- 📫 How to reach me: u can reach me through my Instagram (**@mnirvann**)
+- ⚡ Fun fact: i'm like Badmintoon, chess and playing video game
