@@ -15,10 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### 💫About Me
 - 🔭 I'm a student from the Lumajang branch of the Malang State Polytechnic
 - 🌱 I’m currently learning PHP and Laravel Framework
 - 👯 I’m looking to collaborate on a Website Development project
 - 📫 How to reach me: u can reach me through my Instagram [(**@mnirvann**)](https://instagram.com/mnirvann)
 - ⚡ Fun fact: i'm like Badmintoon, chess and playing video game
 
-![Code Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRveHhzZ29ub2lqZWN2MWJlNjRjbmZpd3drZnRwYmcxZ2poY2wwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif)
+#### 💻What i learned & Framework | Library
+
+![image](    https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white) ![image](https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) ![image](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white) ![image](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white) ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,html,css,php,bootstrap,laravel,fontawesome&theme=dark)](https://skillicons.dev) -->
+
+#### 🌐Social
+
+![https://www.instagram.com/mnirvann](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.linkedin.com/in/m-nuril-irvan](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://wa.me/6282144851960](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
+
+
+#### 📊My Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)![](https://nirzak-streak-stats.vercel.app/?user=MNIrvan&theme=blue-green&hide_border=false)<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MNIrvan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MNIrvan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MNIrvan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRveHhzZ29ub2lqZWN2MWJlNjRjbmZpd3drZnRwYmcxZ2poY2wwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="900" height="300">
