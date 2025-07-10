@@ -35,18 +35,39 @@ Here are some ideas to get you started:
 
 #### 📊My Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)![](https://nirzak-streak-stats.vercel.app/?user=MNIrvan&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<div align="center">
+ <img src="https://nirzak-streak-stats.vercel.app/?user=MNIrvan&theme=blue-green&hide_border=false" alt="streak graph" />
+ </div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MNIrvan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&position=center" alt="streak graph" />
+</div>
+
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MNIrvan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<img src="https://github-contributor-stats.vercel.app/api?username=MNIrvan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="streak graph" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MNIrvan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=315s6eeauslmd7eoeswt6wwc7pe4">
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNIrvan/MNIrvan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNIrvan/MNIrvan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNIrvan/MNIrvan/output/pacman-contribution-graph.svg">
+</picture>
+
+<img src="https://raw.githubusercontent.com/MNIrvan/MNIrvan/output/snake.svg" alt="Snake animation" />
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRveHhzZ29ub2lqZWN2MWJlNjRjbmZpd3drZnRwYmcxZ2poY2wwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="900" height="300">
