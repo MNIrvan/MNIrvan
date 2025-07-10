@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 #### 📊My Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=MNIrvan&theme=blue-green&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" width="350" alt="streak graph" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=MNIrvan&theme=blue-green&hide_border=false" width="385" alt="streak graph" />
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="streak graph" />
