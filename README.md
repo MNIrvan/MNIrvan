@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 #### 📊My Github Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" width="350" alt="streak graph" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=MNIrvan&theme=blue-green&hide_border=false" width="385" alt="streak graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=MNIrvan&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" width="360" alt="streak graph" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=MNIrvan&theme=blue-green&hide_border=false" width="400" alt="streak graph" />
 </div>
 
 <div align="center">
@@ -65,12 +65,7 @@ Here are some ideas to get you started:
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=315s6eeauslmd7eoeswt6wwc7pe4">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNIrvan/MNIrvan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNIrvan/MNIrvan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNIrvan/MNIrvan/output/pacman-contribution-graph.svg">
-</picture>
 
-<img src="https://raw.githubusercontent.com/MNIrvan/MNIrvan/output/snake.svg" alt="Snake animation" />
+
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRveHhzZ29ub2lqZWN2MWJlNjRjbmZpd3drZnRwYmcxZ2poY2wwdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="900" height="300">
